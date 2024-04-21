@@ -1,7 +1,3 @@
-# interfocus-treinamento
-
-Treinamento para estágio INTERFOCUS
-
 # CRONOGRAMA - TREINAMENTO
 
 ## INTRODUÇÃO AO C# : 20/04
@@ -13,3 +9,5 @@ Treinamento para estágio INTERFOCUS
 ## APRIMORANDO JAVASCRIPT : 01/06
 ## INTRODUÇÃO AO REACTJS : 08/06
 ## APRIMORANDO REACTJS: 15/06
+
+[👉 Veja meu portfólio aqui :)](https://samubarreto.github.io/Portfolio/)<br>
