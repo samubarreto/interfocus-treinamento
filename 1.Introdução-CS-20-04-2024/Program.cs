@@ -30,9 +30,7 @@ while (true)
     {
         case 1:
             Console.Clear();
-            Console.WriteLine(">Insira o valor para verificar sua paridade: ");
-            int num = int.Parse(Console.ReadLine());
-            Console.WriteLine(">{0} é {1}", num, Metodos.IsPar(num));
+            Metodos.IsPar();
             Console.WriteLine("\nPressione uma tecla para continuar...");
             Console.ReadKey();
             break;
@@ -60,7 +58,7 @@ while (true)
 
         case 5:
             Console.Clear();
-            obj.PrintaLista(lista);
+            Metodos.PrintaLista(lista);
             Console.WriteLine("\nPressione uma tecla para continuar...");
             Console.ReadKey();
             break;

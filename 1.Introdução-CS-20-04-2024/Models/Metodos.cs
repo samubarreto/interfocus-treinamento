@@ -8,11 +8,14 @@ namespace InterfocusConsole
 {
     internal class Metodos
     {
-        public static string IsPar(int num)
+        public static void IsPar()
         {
-            return num % 2 == 0 ? "Par" : "Ímpar";
+            Console.WriteLine(">Insira o valor para verificar sua paridade: ");
+            int num = int.Parse(Console.ReadLine());
+            Console.WriteLine(">{0} é {1}", num, num % 2 == 0 ? "Par" : "Ímpar");
         }
-        public void PrintaLista(List<string> lista)
+
+        public static void PrintaLista(List<string> lista)
         {
             Console.WriteLine(">Sua lista:");
             int c = 0;
@@ -44,7 +47,9 @@ namespace InterfocusConsole
 
         public static void RemoverDaLista(List<string> lista)
         {
-            Console.WriteLine(">Insira o índice para ser removido da lista: ");
+            Console.WriteLine(">Essa é sua lista: ");
+            PrintaLista(lista);
+            Console.WriteLine("\n>Insira o índice para ser removido da lista: ");
             var index = int.Parse(Console.ReadLine());
             var removido = lista[index - 1];
             Console.WriteLine("\nRemovendo: [{0}]:[{1}]", index, removido);
