@@ -9,6 +9,12 @@ List<string> lista = new List<string>
     "item3"
 }; // muito manero
 
+string Input(string message)
+{
+    Console.WriteLine(message);
+    return Console.ReadLine();
+}
+
 while (true)
 {
     Console.Clear();
@@ -19,6 +25,8 @@ while (true)
     Console.WriteLine("3 - Remover da lista");
     Console.WriteLine("4 - Buscar na lista");
     Console.WriteLine("5 - Printar lista");
+    Console.WriteLine("6 - Cadastrar Aluno");
+    Console.WriteLine("7 - Listar Alunos");
 
     var opção = int.TryParse(Console.ReadLine(), out int opçãoValida);
     if (opçãoValida == 0)
@@ -61,6 +69,12 @@ while (true)
             Metodos.PrintaLista(lista);
             Console.WriteLine("\nPressione uma tecla para continuar...");
             Console.ReadKey();
+            break;
+
+        case 6:
+            break;
+
+        case 7:
             break;
 
         default:
