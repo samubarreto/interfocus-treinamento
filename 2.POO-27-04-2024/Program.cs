@@ -1,27 +1,6 @@
 ﻿using Models.MetodosPOO;
 
 var ListaAlunos = new List<Aluno>();
-
-/*
- * Objeto: Instâscia de um tipo por referência
- * Abstração: Ideia de abstrair algo do mundo real numa classe: (CRIAR CLASSES)
- * * Aluno: Nome, DataNascimento, RA;
- * 
- * Encapsulamento: (DEFINIR PROPRIEDADES DAS CLASSES DE FORMA CONTROLADA)
- * * Gets e sets, não sei o que fazem, mas posso usar. Set é chamado sempre que atribuído um valor a uma propriedade e get é chamado sempre que lido um valor de uma propriedade
- * * chama encapsulamento pois você não vê oq o get set fazem, mas fazem
- * 
- * Herança: ()
- * * Capacidade de usar as propriedades e métodos de uma classe dentro de outra classe
- * * EX: public class Gerente: Funcionario
- * * EX: /\ Gerente herda de Funcionário.. Gerente também é do tipo funcionário
- * 
- * Polimorfismo: ()
- * * 
- * 
- * Decorator = Atributo
- */
-
 var Aluno1 = new Aluno // new chama o construtor
 {
     NomeAluno = "Samu",
@@ -101,7 +80,8 @@ while (true)
                 Console.WriteLine("\nAluno adicionado com sucesso. Aperte uma tecla para continuar...");
                 Console.ReadKey();
                 break;
-            } else
+            }
+            else
             {
                 var NovoAluno = new Aluno
                 {
