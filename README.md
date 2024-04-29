@@ -1,9 +1,9 @@
-[👉 Veja meu portfólio aqui :)](https://samubarreto.github.io/Portfolio/)<br>
+[👉 Veja meu portfólio aqui](https://samubarreto.github.io/Portfolio/)<br>
 
 # CRONOGRAMA - TREINAMENTO
 
 * [X] INTRODUÇÃO AO C# : 20/04
-* [ ] INTRODUÇÃO A POO : 27/04
+* [X] INTRODUÇÃO A POO : 27/04
 * [ ] INTRODUÇÃO A WEB APIs : 04/05
 * [ ] INTRODUÇÃO A BANCO DE DADOS POSTGRESQL/ORM NHIBERNATE: 11/05
 * [ ] INTRODUÇÃO AO FRONTEND: 18/05
