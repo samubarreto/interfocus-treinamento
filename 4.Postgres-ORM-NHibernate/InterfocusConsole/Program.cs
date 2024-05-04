@@ -1,13 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-/*
- * Arquitetura em camadas 😎
- * Repositório -> camada de dados
- * AlunoService -> camada de negócio
- * AlunoController -> camada de acesso
- * Frontend -> camada de apresentação
- */
-
 // import 
 using InterfocusConsole;
 using System.Threading.Channels;

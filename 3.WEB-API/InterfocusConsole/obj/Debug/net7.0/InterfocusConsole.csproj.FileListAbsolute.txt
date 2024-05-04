@@ -1,0 +1,15 @@
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.exe
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.deps.json
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.runtimeconfig.json
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\refint\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\ref\InterfocusConsole.dll
