@@ -1,4 +1,4 @@
-[👉 Veja meu portfólio aqui](https://samubarreto.github.io/Portfolio/)`<br>`
+[👉 Veja meu portfólio aqui](https://samubarreto.github.io/Portfolio/)
 
 # CRONOGRAMA - TREINAMENTO
 
