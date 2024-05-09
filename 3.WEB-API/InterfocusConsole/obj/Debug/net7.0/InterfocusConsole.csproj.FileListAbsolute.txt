@@ -13,3 +13,18 @@ C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\refint\Inte
 C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.pdb
 C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.genruntimeconfig.cache
 C:\Users\Aula\Desktop\a\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\ref\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.exe
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.deps.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.runtimeconfig.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\bin\Debug\net7.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.sourcelink.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\refint\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\3.WEB-API\InterfocusConsole\obj\Debug\net7.0\ref\InterfocusConsole.dll

@@ -102,11 +102,18 @@ namespace InterfocusConsole
         }
         public static Aluno Remover(int codigo)
         {
-            var aluno = Alunos
+            try
+            {
+                var aluno = Alunos
                         .Where(x => x.Codigo == codigo)
                         .First();
-            Alunos.Remove(aluno);
-            return aluno;
+                Console.WriteLine(aluno);
+                Alunos.Remove(aluno);
+                return aluno;
+            } catch (Exception ex)
+            {
+                return null;
+            }
         }
     }
 }
