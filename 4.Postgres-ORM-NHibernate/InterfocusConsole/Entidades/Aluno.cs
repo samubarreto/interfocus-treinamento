@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfocusConsole
+namespace InterfocusConsole.Entidades
 {
     public class Aluno
     {
