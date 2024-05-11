@@ -6,26 +6,27 @@ using System.Threading.Tasks;
 
 namespace InterfocusConsole.Entidades
 {
-    internal class Curso
+    public class Curso
     {
-        public int Id { get; set; }
-        public string? Nome { get; set; }
-        public string? Descricao { get; set; }
-        public NivelCurso Nivel { get; set; }
-        // 0 - Iniciante, 1 - Intermediário, 2 - Avançado, 3 - Expert
-        public int Duracao { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string Nome { get; set; }
+        public virtual string Descricao { get; set; }
+        // 0 - iniciante, 1 - intermediario, 2 - avançado, 3 - expert
+        public virtual NivelCurso Nivel { get; set; }
+        public virtual int Duracao { get; set; }
 
         void Metodo()
         {
-            if (Nivel == NivelCurso.Iniciante) { } // bom usar o enum
-            else if (Nivel == NivelCurso.Intermediario) { }
+            if (Nivel == NivelCurso.Iniciante) { }// faz alguma coisa
+            else if (Nivel == NivelCurso.Intermediario) { } // faz outra coisa 
         }
     }
-    public enum NivelCurso // é um tipo (muito foda)
+
+    public enum NivelCurso
     {
         Iniciante = 0,
         Intermediario = 1,
-        Avançado = 2,
+        Avancado = 2,
         Expert = 3
     }
 }
