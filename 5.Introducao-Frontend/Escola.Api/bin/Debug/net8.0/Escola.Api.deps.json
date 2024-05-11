@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Escola.Api/1.0.0": {
+        "dependencies": {
+          "InterfocusConsole": "1.0.0"
+        },
+        "runtime": {
+          "Escola.Api.dll": {}
+        }
+      },
+      "InterfocusConsole/1.0.0": {
+        "runtime": {
+          "InterfocusConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escola.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfocusConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
