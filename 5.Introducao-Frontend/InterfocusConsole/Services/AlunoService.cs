@@ -8,10 +8,10 @@ namespace InterfocusConsole.Services
         private static int Contador = 1000;
         private static List<Aluno> Alunos = new List<Aluno>()
         {
-            new Aluno { Nome = "Rodrigo teste", Codigo = 1, DataNascimento = new DateTime(2000,1,1), Email = "teste@email.com" },
-            new Aluno { Nome = "Fulano de tal", Codigo = 2, DataNascimento = new DateTime(2000,2,1), Email = "fulano@email.com" },
-            new Aluno { Nome = "Jobiscleyson Souza", Codigo = 3, DataNascimento = new DateTime(2000,1,5), Email = "job@email.com" },
-            new Aluno { Nome = "Maria josé", Codigo = 4, DataNascimento = new DateTime(1998,1,1), Email = "maria@email.com" },
+            new Aluno{ Nome = "Samu 1", Codigo=Contador++, DataNascimento = new DateTime(2004,11,04 ), Email = "email@teste.com"},
+            new Aluno{ Nome = "Samu 2", Codigo=Contador++, DataNascimento = new DateTime(2004,11,04 ), Email = "email@teste.com"},
+            new Aluno{ Nome = "Samu 3", Codigo=Contador++, DataNascimento = new DateTime(2004,11,04 ), Email = "email@teste.com"},
+            new Aluno{ Nome = "Samu 4", Codigo=Contador++, DataNascimento = new DateTime(2004,11,04 ), Email = "email@teste.com"}
         };
 
 
