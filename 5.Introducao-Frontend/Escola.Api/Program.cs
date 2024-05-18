@@ -1,3 +1,4 @@
+using InterfocusConsole.Services;
 using NHibernate;
 using NHibernate.Cfg;
 
@@ -13,6 +14,8 @@ builder.Services.AddSingleton<ISessionFactory>((s) =>
     config.Configure();
     return config.BuildSessionFactory();
 });
+
+builder.Services.AddTransient<CursoService>();
 
 var app = builder.Build();
 

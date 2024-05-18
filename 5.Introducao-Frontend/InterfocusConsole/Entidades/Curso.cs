@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InterfocusConsole.Entidades
+﻿namespace InterfocusConsole.Entidades
 {
     public class Curso
     {
@@ -15,9 +9,9 @@ namespace InterfocusConsole.Entidades
         public virtual NivelCurso Nivel { get; set; }
         public virtual int Duracao { get; set; }
 
-        void Metodo()
+        void UsandoEnum()
         {
-            if (Nivel == NivelCurso.Iniciante) { }// faz alguma coisa
+            if (Nivel == NivelCurso.Iniciante) { } // faz alguma coisa
             else if (Nivel == NivelCurso.Intermediario) { } // faz outra coisa 
         }
     }
