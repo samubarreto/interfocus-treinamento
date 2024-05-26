@@ -49,6 +49,10 @@ tbody tr {
   border-radius: 5px;
 }
 
+tbody tr.selecionado {
+  background-color: #222222;
+}
+
 tbody tr:hover,
 tbody td:hover,
 th:hover {
