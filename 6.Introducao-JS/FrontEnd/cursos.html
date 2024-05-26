@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
     <script src="scripts/teste.js"></script>
     <script src="scripts/curso.js"></script>
 </head>
+
 <body>
     <h1>Cursos</h1>
 
@@ -17,7 +19,7 @@
             <label for="nome">Nome:</label>
             <input type="text" id="nome" placeholder="Nome Curso" name="nome">
         </div>
-				
+
         <div class="wrapper">
             <label for="duracao">Duração:</label>
             <input type="text" id="duracao" placeholder="Duração Curso" name="duracao">
@@ -28,46 +30,48 @@
             <input type="text" id="nivel" placeholder="Nível Curso" name="nivel">
         </div>
 
-        <div class="wrapper">
+        <div class="wrapper" style="justify-content: center;">
             <input type="button" value="? Nada" onclick="fazAlgo();"></input>
             <input type="reset" value="∅ Resetar"></input>
             <input type="submit" value="Enviar >">
         </div>
 
-				<input name="index" type="hidden" value="-1">
+        <input name="index" type="hidden" value="-1">
     </form>
 
     <table>
         <thead>
             <tr>
-							<th>Nome</th>
-							<th>Duração</th>
-							<th>Nível</th>
+                <th>Nome</th>
+                <th>Duração</th>
+                <th>Nível</th>
             </tr>
         </thead>
         <tbody onclick="selecionar(event)">
             <tr>
-							<td>Curso 1</td>
-							<td>10</td>
-							<td>3</td>
+                <td>Fundamentos .NET</td>
+                <td>23 horas</td>
+                <td>Iniciante</td>
             </tr>
             <tr>
-							<td>Curso 2</td>
-							<td>90</td>
-							<td>2</td>
+                <td>HTML CSS Full Course</td>
+                <td>10 horas</td>
+                <td>Iniciante</td>
             </tr>
             <tr>
-							<td>Curso 3</td>
-							<td>16</td>
-							<td>5</td>
+                <td>Javascript Full Course</td>
+                <td>20 horas</td>
+                <td>Iniciante</td>
             </tr>
         </tbody>
     </table>
 
     <div class="wrapper" style="justify-content: center;">
         <a href="index.html">
-            <p>< Main</p>
+            <p>
+                < Main</p>
         </a>
     </div>
 </body>
+
 </html>

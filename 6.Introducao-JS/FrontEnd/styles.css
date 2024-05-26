@@ -29,30 +29,45 @@ tbody {
 }
 
 table {
-  border-collapse: collapse;
+  border-collapse: separate;
 }
 
 th {
   background-color: #636363;
   color: #fff;
-  padding: 10px 12px;
   text-align: left;
+  padding: 8px;
+  border: solid 2px rgba(34, 34, 34, 0.3);
+  min-width: 90px;
+  border-radius: 5px;
 }
 
-td {
-  background-color: #464646;
-  color: #fff;
-  padding: 10px 19px;
-  text-align: left;
+tbody tr {
+  background-color: #777777;
+  transition: all 0.3s;
+  border-bottom: solid 1px rgba(34, 34, 34, 0.3);
+  border-radius: 5px;
+}
+
+tbody tr:hover,
+tbody td:hover,
+th:hover {
+  background-color: rgba(34, 34, 34, 0.3);
+  transition: all 0.15s;
+}
+
+tbody td,
+th {
+  text-wrap: pretty;
+  border-radius: 5px;
+  padding: 8px;
+  min-width: 120px;
+  max-width: 120px;
 }
 
 a {
   color: #fff;
   text-decoration: none;
-}
-
-p {
-  margin: 5px 0;
 }
 
 button,
@@ -65,10 +80,10 @@ input[type=password] {
   background-color: #fff;
   color: #222222;
   border: none;
-  padding: 3px 5px;
+  padding: 5px 8px;
   border-radius: 20px;
   cursor: pointer;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 input[type=text],
@@ -84,8 +99,8 @@ input[type=number]:hover,
 input[type=reset]:hover,
 input[type=button]:hover,
 input[type=password]:hover {
-  opacity: .8;
-  transition: all .15s ease-in-out;
+  opacity: 0.8;
+  transition: all 0.15s ease-in-out;
 }
 
 button:active,
@@ -95,14 +110,14 @@ input[type=button]:active {
   color: #fff;
   background-color: #222222;
   transform: scale(1.05);
-  opacity: .6;
-  transition: all .05s;
+  opacity: 0.6;
+  transition: all 0.05s;
 }
 
 .wrapper {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: flex-end;
   align-items: center;
   gap: 10px;
   margin: 10px 0;
@@ -112,7 +127,7 @@ input[type=button]:active {
 form,
 table {
   background-color: #464646;
-  padding: 5px 20px;
+  padding: 10px;
   border-radius: 10px;
   display: flex;
   justify-content: center;
@@ -120,7 +135,11 @@ table {
   flex-direction: column;
   margin: 10px 0;
   transition: all 0.3s;
-  width: 280px;
+}
+
+table {
+  cursor: default;
+  background-color: #636363;
 }
 
 label {
