@@ -146,6 +146,10 @@ table {
   background-color: #636363;
 }
 
+table tbody {
+  cursor: pointer;
+}
+
 label {
   text-align: end;
 }
