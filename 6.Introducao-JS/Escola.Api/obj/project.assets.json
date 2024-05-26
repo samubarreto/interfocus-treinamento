@@ -5567,11 +5567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\Escola.Api\\Escola.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\Escola.Api\\Escola.Api.csproj",
       "projectName": "Escola.Api",
-      "projectPath": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\Escola.Api\\Escola.Api.csproj",
+      "projectPath": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\Escola.Api\\Escola.Api.csproj",
       "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\Escola.Api\\obj\\",
+      "outputPath": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\Escola.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5588,8 +5588,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\InterfocusConsole\\InterfocusConsole.csproj": {
-              "projectPath": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\InterfocusConsole\\InterfocusConsole.csproj"
+            "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\InterfocusConsole\\InterfocusConsole.csproj": {
+              "projectPath": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\InterfocusConsole\\InterfocusConsole.csproj"
             }
           }
         }

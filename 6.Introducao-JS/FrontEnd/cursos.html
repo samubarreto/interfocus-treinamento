@@ -1,61 +1,73 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos - Escola Interfocus</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="/source/favicon.png">
+    <script src="scripts/teste.js"></script>
+    <script src="scripts/curso.js"></script>
+</head>
+<body>
+    <h1>Cursos</h1>
 
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Cursos - Escola Interfocus</title>
-		<link rel="stylesheet" href="styles.css">
-	</head>
+    <form method="get" onsubmit="addCurso(event);">
+        <div class="wrapper">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" placeholder="Nome Curso" name="nome">
+        </div>
+				
+        <div class="wrapper">
+            <label for="duracao">Duração:</label>
+            <input type="text" id="duracao" placeholder="Duração Curso" name="duracao">
+        </div>
 
-	<body>
-		<h1>Cursos</h1>
+        <div class="wrapper">
+            <label for="nivel">Nível:</label>
+            <input type="text" id="nivel" placeholder="Nível Curso" name="nivel">
+        </div>
 
-		<table>
+        <div class="wrapper">
+            <input type="button" value="? Nada" onclick="fazAlgo();"></input>
+            <input type="reset" value="∅ Resetar"></input>
+            <input type="submit" value="Enviar >">
+        </div>
 
-			<thead>
-				<tr>
-					<th>ID</th>
-					<th>Nome</th>
-					<th>Email</th>
-				</tr>
-			</thead>
+				<input name="index" type="hidden" value="-1">
+    </form>
 
-			<tbody>
-				<tr>
-					<td>1</td>
-					<td>TESTE</td>
-					<td>teste@teste.com</td>
-				</tr>
-			</tbody>
+    <table>
+        <thead>
+            <tr>
+							<th>Nome</th>
+							<th>Duração</th>
+							<th>Nível</th>
+            </tr>
+        </thead>
+        <tbody onclick="selecionar(event)">
+            <tr>
+							<td>Curso 1</td>
+							<td>10</td>
+							<td>3</td>
+            </tr>
+            <tr>
+							<td>Curso 2</td>
+							<td>90</td>
+							<td>2</td>
+            </tr>
+            <tr>
+							<td>Curso 3</td>
+							<td>16</td>
+							<td>5</td>
+            </tr>
+        </tbody>
+    </table>
 
-			<tbody>
-				<tr>
-					<td>2</td>
-					<td>TESTE</td>
-					<td>teste@teste.com</td>
-				</tr>
-			</tbody>
-
-			<tbody>
-				<tr>
-					<td>3</td>
-					<td>TESTE</td>
-					<td>teste@teste.com</td>
-				</tr>
-			</tbody>
-
-		</table>
-
-		<div class="wrapper">
-			<a href="index.html">
-				<p>< Main</p>
-			</a>
-
-			<button>
-				+ Novo Curso
-			</button>
-		</div>
-
-	</body>
+    <div class="wrapper" style="justify-content: center;">
+        <a href="index.html">
+            <p>< Main</p>
+        </a>
+    </div>
+</body>
 </html>

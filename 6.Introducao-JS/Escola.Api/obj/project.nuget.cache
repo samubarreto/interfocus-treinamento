@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QUe7gil6PZHghqxc0tQ28AExG0lqYXKVr6fTFR0PJOZVLaIohbbgQJbrDUxF39rdxZ+meVkA45SMk3JOe8CU6w==",
+  "dgSpecHash": "+OdONgXZZAmjs8x8SZsU5s7vZQVv80D+NRQXFO/AroftsHd5hXBYJh0p9oTHj3yicmZNokXaRp/ffaSkLGUO8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\Escola.Api\\Escola.Api.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\Escola.Api\\Escola.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",

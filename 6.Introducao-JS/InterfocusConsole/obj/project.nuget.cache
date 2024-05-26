@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uVHHBJ6MLlLZODaiO3uoKwYaRvfHsuezSMlb4ZD2ZWdlWCoKhRqKyNVVBnmpBITpJyPTyRrX2gbHYKqIoj6ijw==",
+  "dgSpecHash": "Vnb1fxyXaK7GLP4ps/AsxNhotMJQ7CFz0pDoEOB9f7YgaGWMREExDde2+YpIP3aj2nHBQfOBlXU5VK4BkOt3nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\Desktop\\a\\5.Introducao-Frontend\\InterfocusConsole\\InterfocusConsole.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\Desktop\\abc\\6.Introducao-JS\\InterfocusConsole\\InterfocusConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
