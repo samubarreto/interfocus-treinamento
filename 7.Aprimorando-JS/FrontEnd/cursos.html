@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos - Escola Interfocus</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="/source/favicon.png">
+    <script src="scripts/teste.js"></script>
+    <script src="scripts/curso.js"></script>
+</head>
+
+<body>
+    <h1>Cursos</h1>
+
+    <form method="get" onsubmit="addCurso(event);">
+        <div class="wrapper">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" placeholder="Nome Curso" name="nome" required>
+        </div>
+
+        <div class="wrapper">
+            <label for="duracao">Duração:</label>
+            <input type="text" id="duracao" placeholder="Duração Curso" name="duracao" required>
+        </div>
+
+        <div class="wrapper">
+            <label for="nivel">Nível:</label>
+            <input type="text" id="nivel" placeholder="Nível Curso" name="nivel" required>
+        </div>
+
+        <div class="wrapper" style="justify-content: center;">
+            <input type="button" value="? Nada" onclick="fazAlgo();"></input>
+            <input type="reset" value="∅ Resetar"></input>
+            <input type="submit" value="Enviar >">
+        </div>
+
+        <input name="index" type="hidden" value="-1">
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Duração</th>
+                <th>Nível</th>
+            </tr>
+        </thead>
+        <tbody onclick="selecionar(event)">
+            <tr>
+                <td>Fundamentos .NET</td>
+                <td>23 horas</td>
+                <td>Iniciante</td>
+            </tr>
+            <tr>
+                <td>HTML CSS Full Course</td>
+                <td>10 horas</td>
+                <td>Iniciante</td>
+            </tr>
+            <tr>
+                <td>Javascript Full Course</td>
+                <td>20 horas</td>
+                <td>Iniciante</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="wrapper" style="justify-content: center;">
+        <a href="index.html">
+            <p>
+                < Main</p>
+        </a>
+    </div>
+</body>
+
+</html>
