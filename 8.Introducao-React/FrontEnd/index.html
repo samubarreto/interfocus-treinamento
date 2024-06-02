@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Main - Escola Interfocus</title>
+
+	<link rel="stylesheet" href="/styles.css">
+
+	<link rel="icon" type="image/x-icon" href="/source/favicon.png">
+	<script type="text/javascript" src="/scripts/router.js"></script>
+
+	<script type="text/javascript" src="/scripts/alunoapi.js"></script>
+
+	<script type="text/javascript" src="/scripts/cursoapi.js"></script>
+
+	<section id="conteudo"></section>
+
+</head>
+
+<body>
+	<header>
+		<nav class="wrapper">
+
+			<a href="/cadastro/curso">
+				<button>Novo Curso +</button>
+			</a>
+
+			<a href="/tabela/cursos">
+				<button>
+					<p>Cursos 🎓</p>
+				</button>
+			</a>
+
+			<a href="/">
+				<button>
+					🏠
+				</button>
+			</a>
+
+			<a href="/tabela/alunos">
+				<button>🧑‍🎓 Alunos</button>
+			</a>
+
+			<a href="/cadastro/aluno">
+				<button>+ Novo Aluno</button>
+			</a>
+
+		</nav>
+	</header>
+
+	<script type="text/javascript">
+		setTimeout(() => checkRoute(), 100);
+		if (window.location.pathname == "/tabela/alunos") {
+			setTimeout(() => preencherTabelaAlunos(), 200);
+		} else if (window.location.pathname == "/tabela/cursos") {
+			setTimeout(() => preencherTabelaCursos(), 200);
+		}
+	</script>
+
+</body>
+
+</html>
