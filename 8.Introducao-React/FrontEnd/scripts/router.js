@@ -1,22 +1,22 @@
 function checkRoute() {
-  var tela = "/home.html"
+  var tela = "/views/home.html"
 
   switch (window.location.pathname) {
 
     case "/tabela/cursos":
-      tela = '/tables/tableCursos.html';
+      tela = '/views/tables/tableCursos.html';
       break;
 
     case "/tabela/alunos":
-      tela = '/tables/tableAlunos.html';
+      tela = '/views/tables/tableAlunos.html';
       break;
 
     case "/cadastro/aluno":
-      tela = '/forms/formAlunos.html';
+      tela = '/views/forms/formAlunos.html';
       break;
 
     case "/cadastro/curso":
-      tela = '/forms/formCursos.html';
+      tela = '/views/forms/formCursos.html';
       break;
 
     default:

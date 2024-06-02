@@ -48,6 +48,7 @@ function criarAluno(event) {
             const input = form.querySelector(`[name=${campo.toLowerCase()}]`);
             console.log(input)
             const erroMessage = input.parentNode.querySelector(".error");
+            erroMessage = '';
             erroMessage.innerHTML = errorMessage;
           })
         })
@@ -82,12 +83,12 @@ function preencherTabelaAlunos() {
             console.log(data)
             console.log(`${data.getDate()}/${data.getMonth()}/${data.getYear()}`);
             tbody.innerHTML += `<tr>
-              <td style="min-width: 65px; max-width: 65px;">${aluno.codigo}</td>
+              <td class="special-column">${aluno.codigo}</td>
               <td>${aluno.nome}</td>
 					    <td>${data.getDate()}/${data.getMonth()}/${data.getYear()}</td>
 					    <td>${aluno.email}</td>
-              <td style="min-width: 65px; max-width: 65px; text-align: center;" onclick="editarAluno()">EDITAR</td>
-              <td style="min-width: 65px; max-width: 65px; text-align: center;" onclick="apagarAluno()">APAGAR</td>
+              <td class="special-column item" onclick="editarAluno()">✏️</td>
+              <td class="special-column item" onclick="apagarAluno()">🗑️</td>
             </tr>
             `;
           })

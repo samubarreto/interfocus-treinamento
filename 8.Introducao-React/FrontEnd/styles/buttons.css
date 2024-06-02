@@ -1,0 +1,65 @@
+button,
+select,
+input[type=submit],
+input[type=text],
+input[type=number],
+input[type=reset],
+input[type=button],
+input[type=password] {
+  background-color: #fff;
+  color: #222222;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+}
+
+input[type=reset],
+input[type=submit] {
+  background-color: #3b3b3b;
+  color: #fff;
+}
+
+input[type=text],
+input[type=number],
+input[type=password] {
+  cursor: text;
+}
+
+input[type=submit]:hover,
+input[type=text]:hover,
+input[type=number]:hover,
+input[type=reset]:hover,
+input[type=button]:hover,
+input[type=password]:hover {
+  opacity: 0.8;
+  transition: all 0.15s ease-in-out;
+}
+
+button:active,
+input[type=submit]:active,
+input[type=reset]:active,
+input[type=button]:active {
+  color: #fff;
+  background-color: #222222;
+  transform: scale(1.05);
+  opacity: 0.6;
+  transition: all 0.05s;
+}
+
+form:hover,
+table:hover,
+.index-container:hover,
+button:hover,
+input[type=reset]:hover,
+input[type=submit]:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 0 #fff;
+  transition: all .15s;
+}
+
+button:hover {
+  box-shadow: 0 2px 0 #222222;
+}

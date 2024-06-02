@@ -1,0 +1,36 @@
+<h1 class="section-title">Novo Curso 🎓</h1>
+<form method="get" onsubmit="criarCurso(event);">
+
+  <div class="wrapper inputs">
+    <label for="nome">·Nome:</label>
+    <input type="text" id="nome" placeholder="Nome do Curso" name="nome" required>
+    <span class="error"></span>
+  </div>
+
+  <div class="wrapper inputs">
+    <label for="descricao">·Descrição:</label>
+    <input type="text" id="descricao" placeholder="Descrição do Curso" name="descricao" required>
+    <span class="error"></span>
+  </div>
+
+  <div class="wrapper inputs">
+    <label for="duracao">·Duração:</label>
+    <input type="text" id="duracao" placeholder="Duração do Curso em horas" name="duracao" required>
+    <span class="error"></span>
+  </div>
+
+  <div class="wrapper inputs">
+    <label for="nivel">·Nível:</label>
+    <select name="nivel" aria-placeholder="Selecione o nível" style="margin: 5px 0;">
+      <option value="0">Iniciante</option>
+      <option value="1">Intermediário</option>
+      <option value="2">Avançado</option>
+      <option value="3">Expert</option>
+    </select>
+  </div>
+
+  <div class="wrapper" style="justify-content: center;">
+    <input type="reset" value="∅ Limpar"></input>
+    <input type="submit" value="Enviar >">
+  </div>
+</form>

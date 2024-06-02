@@ -6,7 +6,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Main - Escola Interfocus</title>
 
-	<link rel="stylesheet" href="/styles.css">
+	<link rel="stylesheet" href="/styles/general.css">
+	<link rel="stylesheet" href="/styles/header.css">
+	<link rel="stylesheet" href="/styles/table.css">
+	<link rel="stylesheet" href="/styles/form.css">
+	<link rel="stylesheet" href="/styles/buttons.css">
+	<link rel="stylesheet" href="/styles/layout.css">
 
 	<link rel="icon" type="image/x-icon" href="/source/favicon.png">
 	<script type="text/javascript" src="/scripts/router.js"></script>
@@ -15,23 +20,11 @@
 
 	<script type="text/javascript" src="/scripts/cursoapi.js"></script>
 
-	<section id="conteudo"></section>
-
 </head>
 
 <body>
 	<header>
 		<nav class="wrapper">
-
-			<a href="/cadastro/curso">
-				<button>Novo Curso +</button>
-			</a>
-
-			<a href="/tabela/cursos">
-				<button>
-					<p>Cursos 🎓</p>
-				</button>
-			</a>
 
 			<a href="/">
 				<button>
@@ -39,13 +32,29 @@
 				</button>
 			</a>
 
-			<a href="/tabela/alunos">
-				<button>🧑‍🎓 Alunos</button>
-			</a>
+			<span class="vertical-bar"></span>
 
-			<a href="/cadastro/aluno">
-				<button>+ Novo Aluno</button>
-			</a>
+			<div class="header-section">
+				<a href="/tabela/cursos" class="header-item">
+					Cursos
+				</a>
+				<span class="vertical-bar smaller"></span>
+				<a href="/cadastro/curso" class="header-item">
+					+Novo Curso
+				</a>
+			</div>
+
+			<span class="vertical-bar"></span>
+
+			<div class="header-section">
+				<a href="/tabela/alunos" class="header-item">
+					Alunos
+				</a>
+				<span class="vertical-bar smaller"></span>
+				<a href="/cadastro/aluno" class="header-item">
+					+Novo Aluno
+				</a>
+			</div>
 
 		</nav>
 	</header>
@@ -58,7 +67,9 @@
 			setTimeout(() => preencherTabelaCursos(), 200);
 		}
 	</script>
-
+	<span class="cool-margin-XD"></span>
+	<section id="conteudo"></section>
+	<span class="cool-margin-XD"></span>
 </body>
 
 </html>

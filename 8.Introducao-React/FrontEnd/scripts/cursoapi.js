@@ -58,7 +58,8 @@ function criarCurso(event) {
             const input = form.querySelector(`[name=${campo.toLowerCase()}]`);
             console.log(input)
             const erroMessage = input.parentNode.querySelector(".error");
-            erroMessage.innerHTML = errorMessage;
+            erroMessage.innerHTML = '';
+            erroMessage.innerHTML = `Erro em ${campo}: ${errorMessage}`;
           })
         })
       }
