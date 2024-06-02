@@ -9,15 +9,21 @@ namespace Escola.Api.Controllers
     [Route("api/[controller]")]
     public class AlunoController : ControllerBase
     {
+
+        private readonly AlunoService alunoService;
+
+        public AlunoController(AlunoService alunoService)
+        {
+            this.alunoService = alunoService;
+        }   
+
         [HttpGet]
         public IActionResult Listar(string pesquisa, 
             int skip = 0, 
             int pageSize = 0)
         {
             // ternário
-            var alunos = string.IsNullOrEmpty(pesquisa) ?
-                AlunoService.Listar() :
-                AlunoService.Listar(pesquisa, skip, pageSize);
+            var alunos = string.IsNullOrEmpty(pesquisa) ? alunoService.Listar() : AlunoService.Listar(pesquisa, skip, pageSize);
             return Ok(alunos);
         }
 

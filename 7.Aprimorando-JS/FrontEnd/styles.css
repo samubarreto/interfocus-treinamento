@@ -1,5 +1,5 @@
 * {
-  text-wrap: nowrap;
+  text-wrap: balance;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -60,13 +60,16 @@ th:hover {
   transition: all 0.15s;
 }
 
-tbody td,
-th {
-  text-wrap: pretty;
+td, th {
   border-radius: 5px;
   padding: 8px;
-  min-width: 120px;
-  max-width: 120px;
+  min-width: 250px;
+  max-width: 250px;
+}
+
+.error {
+  font-size: 12px;
+  color: red;
 }
 
 a {
@@ -80,7 +83,8 @@ input[type=text],
 input[type=number],
 input[type=reset],
 input[type=button],
-input[type=password] {
+input[type=password],
+select {
   background-color: #fff;
   color: #222222;
   border: none;
@@ -88,6 +92,10 @@ input[type=password] {
   border-radius: 20px;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
+}
+
+select {
+  width: 100%;
 }
 
 input[type=text],

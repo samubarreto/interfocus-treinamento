@@ -15,6 +15,7 @@ function addCurso(evento) {
 		var linha = document.createElement("tr");
 		linha.innerHTML = `
 					<td>${dados.get("nome")}</td>
+					<td>${dados.get("descricao")}</td>
 					<td>${dados.get("duracao")}</td>
 					<td>${dados.get("nivel")}</td>
 			`;
@@ -36,15 +37,17 @@ function selecionar(evento) {
 
 	var index = [...target.closest("tbody").querySelectorAll("tr")].indexOf(nodeTR); // pega o index do tr selecionado sei lá como, bizarro
 
-	var [nome, duracao, nivel] = nodeTR.querySelectorAll("td");
+	var [nome, descricao, duracao, nivel] = nodeTR.querySelectorAll("td");
 
 	var form = document.querySelector("form");
 	var campoNome = form.querySelector("input[name=nome]");
+	var campoDescricao = form.querySelector("input[name=descricao]");
 	var campoDuracao = form.querySelector("input[name=duracao]");
-	var campoNivel = form.querySelector("input[name=nivel]");
+	var campoNivel = form.querySelector("select[name=nivel]");
 	var campoIndice = form.querySelector("input[name=index]");
 
 	campoNome.value = nome.innerText;
+	campoDescricao.value = descricao.innerText;
 	campoDuracao.value = duracao.innerText;
 	campoNivel.value = nivel.innerText;
 	campoIndice.value = index;

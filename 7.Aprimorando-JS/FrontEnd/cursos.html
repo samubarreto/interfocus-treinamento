@@ -9,26 +9,42 @@
     <link rel="icon" type="image/x-icon" href="/source/favicon.png">
     <script src="scripts/teste.js"></script>
     <script src="scripts/curso.js"></script>
+    <script src="scripts/cursoapi.js"></script>
 </head>
 
 <body>
-    <h1>Cursos</h1>
+    <h1>Cadastrar cursos</h1>
 
-    <form method="get" onsubmit="addCurso(event);">
+    <form method="get" onsubmit="criarCurso(event);">
         <div class="wrapper">
             <label for="nome">Nome:</label>
-            <input type="text" id="nome" placeholder="Nome Curso" name="nome" required>
+            <input type="text" id="nome" placeholder="Nome Curso" name="nome">
+            <br><span class="error"></span>
+        </div>
+
+        <div class="wrapper">
+            <label for="descricao">Descrição:</label>
+            <input type="text" id="descricao" placeholder="Descrição Curso" name="descricao">
+            <br><span class="error"></span>
         </div>
 
         <div class="wrapper">
             <label for="duracao">Duração:</label>
-            <input type="text" id="duracao" placeholder="Duração Curso" name="duracao" required>
+            <input type="text" id="duracao" placeholder="Duração Curso" name="duracao">
+            <br><span class="error"></span>
         </div>
 
-        <div class="wrapper">
+        <!-- <div class="wrapper">
             <label for="nivel">Nível:</label>
-            <input type="text" id="nivel" placeholder="Nível Curso" name="nivel" required>
-        </div>
+            <input type="text" id="nivel" placeholder="Nível Curso" name="nivel">
+        </div> -->
+
+        <select name="nivel" aria-placeholder="Selecione o nível" style="margin: 5px 0;">
+            <option value="0">Iniciante</option>
+            <option value="1">Intermediário</option>
+            <option value="2">Avançado</option>
+            <option value="3">Expert</option>
+        </select>
 
         <div class="wrapper" style="justify-content: center;">
             <input type="button" value="? Nada" onclick="fazAlgo();"></input>
@@ -39,30 +55,16 @@
         <input name="index" type="hidden" value="-1">
     </form>
 
-    <table>
+    <table id="table-cursos">
         <thead>
             <tr>
                 <th>Nome</th>
+                <th>Descrição</th>
                 <th>Duração</th>
                 <th>Nível</th>
             </tr>
         </thead>
         <tbody onclick="selecionar(event)">
-            <tr>
-                <td>Fundamentos .NET</td>
-                <td>23 horas</td>
-                <td>Iniciante</td>
-            </tr>
-            <tr>
-                <td>HTML CSS Full Course</td>
-                <td>10 horas</td>
-                <td>Iniciante</td>
-            </tr>
-            <tr>
-                <td>Javascript Full Course</td>
-                <td>20 horas</td>
-                <td>Iniciante</td>
-            </tr>
         </tbody>
     </table>
 
@@ -72,6 +74,7 @@
                 < Main</p>
         </a>
     </div>
+    <script>preencherTabela()</script>
 </body>
 
 </html>

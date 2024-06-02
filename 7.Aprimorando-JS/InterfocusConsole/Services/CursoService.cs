@@ -19,12 +19,12 @@ namespace InterfocusConsole.Services
             this.session = session;
         }
 
-        public static bool Validacao(Curso aluno,
+        public static bool Validacao(Curso curso,
             out List<ValidationResult> erros)
         {
             erros = new List<ValidationResult>();
-            var valido = Validator.TryValidateObject(aluno,
-                new ValidationContext(aluno),
+            var valido = Validator.TryValidateObject(curso,
+                new ValidationContext(curso),
                 erros,
                 true
             );
