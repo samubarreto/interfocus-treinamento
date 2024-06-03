@@ -26,20 +26,15 @@
 }
 
 .index-container {
-  background-color: #464646;
+  background-color: var(--cor-cinza-medio);
   padding: 20px;
   border-radius: 50px;
   transition: all .3s;
 }
 
-.item {
-  background-color: #fff;
-  text-align: center;
-}
-
 .section-title {
-  background-color: #fff;
-  color: #222222;
+  background-color: var(--cor-branco);
+  color: var(--cor-preto);
   padding: 7px 0;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;

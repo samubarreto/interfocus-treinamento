@@ -7,8 +7,8 @@
 }
 
 body {
-  background-color: #222222;
-  color: #fff;
+  background-color: var(--cor-preto);
+  color: var(--cor-branco);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,12 +28,12 @@ h1 {
 }
 
 ::-webkit-scrollbar {
-  background-color: #fff;
+  background-color: var(--cor-branco);
   border-radius: 10px;
   width: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #222222;
+  background-color: var(--cor-preto);
   border-radius: 10px;
 }

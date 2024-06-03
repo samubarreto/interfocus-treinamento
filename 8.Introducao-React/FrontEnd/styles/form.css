@@ -1,6 +1,6 @@
 form,
 table {
-  background-color: #636363;
+  background-color: var(--cor-cinza-escuro);
   padding: 10px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -31,6 +31,6 @@ form:hover {
 .error {
   margin: 3px 0 0 0;
   font-size: 8px;
-  color: red;
+  color: var(--cor-vermelho);
   text-wrap: pretty;
 }

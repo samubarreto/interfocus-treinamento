@@ -6,8 +6,8 @@ input[type=number],
 input[type=reset],
 input[type=button],
 input[type=password] {
-  background-color: #fff;
-  color: #222222;
+  background-color: var(--cor-branco);
+  color: var(--cor-preto);
   border: none;
   padding: 5px 8px;
   border-radius: 20px;
@@ -18,8 +18,8 @@ input[type=password] {
 
 input[type=reset],
 input[type=submit] {
-  background-color: #3b3b3b;
-  color: #fff;
+  background-color: var(--cor-cinza-medio);
+  color: var(--cor-branco);
 }
 
 input[type=text],
@@ -42,8 +42,8 @@ button:active,
 input[type=submit]:active,
 input[type=reset]:active,
 input[type=button]:active {
-  color: #fff;
-  background-color: #222222;
+  color: var(--cor-branco);
+  background-color: var(--cor-preto);
   transform: scale(1.05);
   opacity: 0.6;
   transition: all 0.05s;
@@ -56,10 +56,10 @@ button:hover,
 input[type=reset]:hover,
 input[type=submit]:hover {
   transform: translateY(-1px);
-  box-shadow: 0 2px 0 #fff;
+  box-shadow: 0 2px 0 var(--cor-branco);
   transition: all .15s;
 }
 
 button:hover {
-  box-shadow: 0 2px 0 #222222;
+  box-shadow: 0 2px 0 var(--cor-preto);
 }

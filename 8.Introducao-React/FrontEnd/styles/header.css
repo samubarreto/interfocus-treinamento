@@ -1,12 +1,12 @@
 header {
-  box-shadow: 0 3px 10px rgba(0, 0, 0, .5);
+  box-shadow: 0 3px 10px var(--cor-box-shadow);
   z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   height: fit-content;
-  background-color: #464646;
+  background-color: var(--cor-cinza-medio);
 }
 
 .header-section {
@@ -16,13 +16,13 @@ header {
   justify-content: center;
   align-items: center;
   text-justify: auto;
-  background-color: #fff;
+  background-color: var(--cor-branco);
   border-radius: 20px;
-  color: #222222;
+  color: var(--cor-preto);
 }
 
 .vertical-bar {
-  background-color: rgba(34, 34, 34, .6);
+  background-color: var(--cor-cinza-transparente-claro);
   height: 25px;
   width: 2px;
   display: block;
@@ -31,11 +31,11 @@ header {
 
 .smaller {
   height: 15px;
-  background-color: rgba(34, 34, 34, .3);
+  background-color: var(--cor-cinza-transparente);
 }
 
 .header-item {
-  border: solid 1px #fff;
+  border: solid 1px var(--cor-branco);
   padding: 5px 8px;
   border-radius: 20px;
   transition: all .3s;
@@ -43,7 +43,7 @@ header {
 
 .header-item:hover {
   opacity: .9;
-  border: solid 1px #222222;
+  border: solid 1px var(--cor-preto);
   transition: all .15s;
 }
 
