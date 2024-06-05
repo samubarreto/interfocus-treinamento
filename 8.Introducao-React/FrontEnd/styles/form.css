@@ -1,5 +1,4 @@
-form,
-table {
+form {
   background-color: var(--cor-cinza-escuro);
   padding: 10px;
   border-bottom-left-radius: 20px;
