@@ -3,9 +3,9 @@ select,
 input[type=submit],
 input[type=text],
 input[type=number],
-input[type=reset],
 input[type=button],
-input[type=password] {
+input[type=password],
+.form-button {
   background-color: var(--cor-branco);
   color: var(--cor-preto);
   border: none;
@@ -16,10 +16,19 @@ input[type=password] {
   width: 100%;
 }
 
-input[type=reset],
-input[type=submit] {
+.form-button {
   background-color: var(--cor-cinza-medio);
   color: var(--cor-branco);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.button-icon {
+  fill: #fff;
+  height: 16px;
+  width: 16px;
 }
 
 input[type=text],
@@ -31,9 +40,9 @@ input[type=password] {
 input[type=submit]:hover,
 input[type=text]:hover,
 input[type=number]:hover,
-input[type=reset]:hover,
 input[type=button]:hover,
-input[type=password]:hover {
+input[type=password]:hover,
+.form-button:hover {
   opacity: 0.8;
   transition: all 0.15s ease-in-out;
 }
@@ -53,11 +62,11 @@ form:hover,
 table:hover,
 .index-container:hover,
 button:hover,
-input[type=reset]:hover,
-input[type=submit]:hover {
+input[type=submit]:hover,
+.form-button:hover {
   transform: translateY(-1px);
   box-shadow: 0 2px 0 var(--cor-branco);
-  transition: all .15s;
+  transition: all 0.15s;
 }
 
 button:hover {
