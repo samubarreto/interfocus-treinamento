@@ -1,11 +1,15 @@
 header {
+  font-size: 1.05rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   box-shadow: 0 3px 10px var(--cor-box-shadow);
   z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  height: fit-content;
+  height: 50px;
   background-color: var(--cor-cinza-medio);
 }
 
@@ -30,15 +34,20 @@ header {
 }
 
 .smaller {
-  height: 15px;
+  height: 4px;
+  width: 4px;
   background-color: var(--cor-cinza-transparente);
 }
 
 .header-item {
   border: solid 1px var(--cor-branco);
-  padding: 5px 8px;
+  padding: 5px 5px;
   border-radius: 20px;
   transition: all .3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
 
 .header-item:hover {
@@ -49,4 +58,13 @@ header {
 
 .header-item:active {
   opacity: .7;
+}
+
+.header-item.selected {
+  color: var(--cor-branco);
+  background-color: var(--cor-cinza-medio);
+}
+
+.header-item.selected svg path {
+  fill: var(--cor-branco);
 }
