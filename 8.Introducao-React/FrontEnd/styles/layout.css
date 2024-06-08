@@ -32,7 +32,16 @@
   transition: all .3s;
 }
 
+section {
+  min-height: calc(100vh - 50px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .section-title {
+  width: 100%;
   background-color: var(--cor-branco);
   color: var(--cor-preto);
   padding: 7px 0;
