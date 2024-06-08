@@ -10,7 +10,7 @@ app.get(/.+$/, function (req, res) {
 });
 
 app.listen(3000, () => {
-    console.log("Rodando 🚀")
+    console.log("Rodando 🚀 http://127.0.0.1:3000/")
 });
 
 // npm i express

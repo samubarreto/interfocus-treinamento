@@ -1,6 +1,5 @@
 const URL_API = "https://localhost:7236/";
 
-// await aqui, espera a promise ser resolvida
 function preencherTabelaCursos() {
   var tabela = document.getElementById("table-cursos");
   listarCursos().then((resultado) => {
@@ -91,22 +90,22 @@ function postCurso(curso) {
   return response;
 }
 
-// abre modal e chama put aluno
-function editarAluno() {
+// abre modal e chama put Curso
+function editarCurso() {
 
 }
 
 // promise e faz o put
-function putAluno(aluno) {
+function putCurso(curso) {
 
 }
 
-// abre modal e chama delete aluno
-function apagarAluno() {
+// abre modal e chama delete Curso
+function apagarCurso() {
 
 }
 
-// chama o endpoint delete aluno
-function deleteAluno(aluno) {
+// chama o endpoint delete Curso
+function deleteCurso(curso) {
 
 }

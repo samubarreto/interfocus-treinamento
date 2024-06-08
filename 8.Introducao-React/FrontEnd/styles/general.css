@@ -37,3 +37,7 @@ h1 {
   background-color: var(--cor-preto);
   border-radius: 10px;
 }
+
+::backdrop {
+  background: rgb(0 0 0 / 0.7)
+}
