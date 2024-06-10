@@ -1,0 +1,78 @@
+button,
+select,
+input[type=submit],
+input[type=text],
+input[type=number],
+input[type=button],
+input[type=password],
+.htmlForm-button {
+  background-color: var(--cor-branco);
+  color: var(--cor-preto);
+  border: none;
+  padding: 5px 8px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+}
+
+.htmlForm-button {
+  background-color: var(--cor-cinza-medio);
+  color: var(--cor-branco);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.base-icon {
+  vertical-align: middle;
+  fill: var(--cor-branco);
+  height: 14px;
+  width: 14px;
+}
+
+.black {
+  fill: var(--cor-cinza-medio);
+}
+
+input[type=text],
+input[type=number],
+input[type=password] {
+  cursor: text;
+}
+
+input[type=submit]:hover,
+input[type=text]:hover,
+input[type=number]:hover,
+input[type=button]:hover,
+input[type=password]:hover,
+.htmlForm-button:hover {
+  opacity: 0.8;
+  transition: all 0.15s ease-in-out;
+}
+
+button:active,
+input[type=submit]:active,
+input[type=reset]:active,
+input[type=button]:active {
+  color: var(--cor-branco);
+  background-color: var(--cor-preto);
+  transform: scale(.95);
+  opacity: 0.6;
+  transition: all 0.05s;
+}
+
+form:hover,
+table:hover,
+.index-container:hover,
+button:hover,
+input[type=submit]:hover,
+.htmlForm-button:hover {
+  box-shadow: 0 2px 0 var(--cor-branco);
+  transition: all 0.15s;
+}
+
+button:hover {
+  box-shadow: 0 2px 0 var(--cor-preto);
+}

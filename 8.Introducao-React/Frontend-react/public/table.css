@@ -1,0 +1,95 @@
+thead {
+  font-weight: bold;
+  background-color: var(--cor-cinza-escuro);
+}
+
+tbody {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+table {
+  border-collapse: separate;
+  background-color: var(--cor-cinza-escuro);
+  padding: 10px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  transition: all 0.3s;
+  cursor: default;
+}
+
+table:hover {
+  transform: none;
+}
+
+th {
+  background-color: var(--cor-cinza-escuro);
+  color: var(--cor-branco);
+  text-align: left;
+  padding: 8px;
+  border: solid 2px var(--cor-cinza-transparente);
+  min-width: 90px;
+  border-radius: 5px;
+}
+
+tbody tr {
+  background-color: var(--cor-cinza-claro);
+  transition: all 0.3s;
+  border-bottom: solid 1px var(--cor-cinza-transparente);
+  border-radius: 5px;
+}
+
+tbody tr.selecionado {
+  background-color: var(--cor-preto);
+}
+
+tbody tr:hover,
+tbody td:hover,
+th:hover {
+  background-color: var(--cor-cinza-transparente);
+  transition: all 0.15s;
+}
+
+tbody td:hover svg path {
+  fill: var(--cor-branco);
+}
+
+td,
+th {
+  border-radius: 5px;
+  padding: 8px;
+  min-width: 200px;
+  max-width: 250px;
+}
+
+.special-column {
+  min-width: 65px;
+  max-width: 65px;
+}
+
+table tbody {
+  cursor: pointer;
+}
+
+.item {
+  background-color: var(--cor-branco);
+  text-align: center;
+  transition: all .3s;
+  font-size: 1.2rem;
+}
+
+.table-icon {
+  height: 16px;
+  width: 16px;
+  vertical-align: middle;
+}
+
+.table-icon:hover {
+  fill: var(--cor-branco);
+}

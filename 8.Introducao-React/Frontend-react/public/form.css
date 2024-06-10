@@ -1,0 +1,28 @@
+form {
+  background-color: var(--cor-cinza-escuro);
+  padding: 0 10px;
+  min-width: 250px;
+  max-width: 250px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  transition: all 0.3s;
+}
+
+label {
+  padding: 0 0 0 10px;
+}
+
+form:hover {
+  transform: none;
+}
+
+.error {
+  margin: 3px 0 0 0;
+  font-size: 8px;
+  color: var(--cor-vermelho);
+  text-wrap: pretty;
+}

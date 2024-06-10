@@ -1,0 +1,199 @@
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.sourcelink.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\4.Postgres-ORM-NHibernate\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\NHibernate.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Npgsql.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.sourcelink.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\Interfoc.11EB09DF.Up2Date
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\NHibernate.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.sourcelink.json
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CopyComplete
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\Aula\Desktop\a\interfocus-treinamento\5.Introducao-Frontend\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\NHibernate.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.sourcelink.json
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\Interfoc.11EB09DF.Up2Date
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\clones\interfocus-treinamento\6.Introducao-JS\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\NHibernate.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CopyComplete
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\Aula\Desktop\a\7.Aprimorando-JS\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.exe
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\hibernate.cfg.xml
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.deps.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.runtimeconfig.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\NHibernate.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Npgsql.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.AssemblyReference.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfoInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.AssemblyInfo.cs
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.sourcelink.json
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\Interfoc.11EB09DF.Up2Date
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\refint\InterfocusConsole.dll
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.pdb
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\InterfocusConsole.genruntimeconfig.cache
+C:\Users\samub\OneDrive\Área de Trabalho\code\0.Treinamento-WEB-Interfocus\8.Introducao-React\InterfocusConsole\obj\Debug\net8.0\ref\InterfocusConsole.dll
