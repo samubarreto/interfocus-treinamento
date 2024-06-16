@@ -3,10 +3,11 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Layout from './layout/Layout';
-import { BrowserRouter } from 'simple-react-routing';
+import { BrowserRouter, registerPathTypeParameter } from 'simple-react-routing';
 import Home from './Home';
 import ListaAlunos from './alunos/ListaAlunos';
 import FormAluno from './alunos/FormAlunos';
+import CursosList from './cursos/CursosList';
 
 function App() {
   var numero = 0;
@@ -36,7 +37,9 @@ function App() {
   }, [count]);
 
   return (
-    <BrowserRouter routes={[
+    <BrowserRouter
+    notFoundPage={<h1>404 - NOT FOUND</h1>}
+    routes={[
       {
         path: "",
         component: <Home></Home>
@@ -50,11 +53,15 @@ function App() {
         component: <FormAluno></FormAluno>
       },
       {
-        path: "alunos/editar/:codigo",
+        path: "alunos/editar/",
         component: <FormAluno></FormAluno>
-      }
+      },
+      {
+        path: "cursos",
+        component: <CursosList></CursosList>
+      },
     ]}>
-      <button onClick={() => setCount(Math.min(5, count + 1))}>
+      <button type="button" onClick={() => setCount(Math.min(5, count + 1))}>
         count is {count}
       </button>
       <Layout></Layout>

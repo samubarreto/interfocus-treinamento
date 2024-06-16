@@ -24,6 +24,13 @@ namespace Escola.Api.Controllers
             return Ok(dados);
         }
 
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            var curso = service.Retorna(id);
+            return Ok(curso);
+        }
+
         [HttpPost]
         public IActionResult Post([FromBody] Curso curso)
         {

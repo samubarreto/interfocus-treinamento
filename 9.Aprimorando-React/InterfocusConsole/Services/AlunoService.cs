@@ -156,11 +156,6 @@ namespace InterfocusConsole.Services
             }
             return valido;
         }
-
-        public static List<Aluno> ListarTodos()
-        {
-            return Alunos;
-        }
         public static List<Aluno> Listar(string buscaAluno,
             int skip = 0, int pageSize = 0)
         {
@@ -170,7 +165,8 @@ namespace InterfocusConsole.Services
                             StringComparison.OrdinalIgnoreCase) ||
                     a.Email.Contains(buscaAluno)
                 )
-                .OrderBy(x => x.DataNascimento)
+                .OrderByDescending(c => c.Codigo)
+                .OrderBy(x => x.Codigo)
                 .AsEnumerable();
             if (skip > 0)
             {
@@ -182,6 +178,13 @@ namespace InterfocusConsole.Services
             }
 
             return consulta.ToList();
+        }
+
+        public virtual Aluno Retorna(int codigo)
+        {
+            using var sessao = session.OpenSession();
+            var aluno = sessao.Get<Aluno>(codigo);
+            return aluno;
         }
 
         public static Aluno Remover(int codigo)

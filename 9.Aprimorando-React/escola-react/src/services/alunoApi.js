@@ -9,6 +9,12 @@ export function listarAlunos(pesquisa) {
     return response;
 }
 
+export function getByCodigo(codigo) {
+    // PROMISE
+    var response = fetch(URL_API + "/api/aluno/" + codigo)
+    return response;
+}
+
 export function deletarAluno(id) {
     // PROMISE
     var request = {
@@ -21,14 +27,14 @@ export function deletarAluno(id) {
 export function postAluno(aluno) {
     // PROMISE
     var request = {
-        method: aluno.id ? "PUT" : "POST",
+        method: aluno.codigo ? "PUT" : "POST",
         headers: {
             "Content-Type": "application/json"
         },
         body: JSON.stringify(aluno)
     }
     var response =
-        fetch(URL_API + "/api/aluno",
+        fetch(URL_API + "/api/aluno/",
             request)
     return response;
 }

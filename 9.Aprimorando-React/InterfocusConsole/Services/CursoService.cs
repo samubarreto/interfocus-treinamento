@@ -80,8 +80,15 @@ namespace InterfocusConsole.Services
         public virtual List<Curso> Listar()
         {
             using var sessao = session.OpenSession();
-            var cursos = sessao.Query<Curso>().ToList();
+            var cursos = sessao.Query<Curso>().OrderByDescending(c => c.Id).ToList();
             return cursos;
+        }
+
+        public virtual Curso Retorna(int id)
+        {
+            using var sessao = session.OpenSession();
+            var curso = sessao.Get<Curso>(id);
+            return curso;
         }
 
         public virtual List<Curso> Listar(string busca)
