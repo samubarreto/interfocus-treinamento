@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAC11D7D-38BC-48FD-AB82-AF6B6F2700D0}|InterfocusConsole\\InterfocusConsole.csproj|c:\\users\\samub\\onedrive\\\u00E1rea de trabalho\\code\\0.treinamento-web-interfocus\\8.introducao-react\\interfocusconsole\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAC11D7D-38BC-48FD-AB82-AF6B6F2700D0}|InterfocusConsole\\InterfocusConsole.csproj|solutionrelative:interfocusconsole\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A8EB6B6-E369-4831-8AD1-C4C1E587495E}|Escola.Api\\Escola.Api.csproj|c:\\users\\samub\\onedrive\\\u00E1rea de trabalho\\code\\0.treinamento-web-interfocus\\8.introducao-react\\escola.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8EB6B6-E369-4831-8AD1-C4C1E587495E}|Escola.Api\\Escola.Api.csproj|solutionrelative:escola.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAC11D7D-38BC-48FD-AB82-AF6B6F2700D0}|InterfocusConsole\\InterfocusConsole.csproj|c:\\users\\samub\\onedrive\\\u00E1rea de trabalho\\code\\0.treinamento-web-interfocus\\8.introducao-react\\interfocusconsole\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CursoService.cs",
-              "DocumentMoniker": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\InterfocusConsole\\Services\\CursoService.cs",
-              "RelativeDocumentMoniker": "InterfocusConsole\\Services\\CursoService.cs",
-              "ToolTip": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\InterfocusConsole\\Services\\CursoService.cs",
-              "RelativeToolTip": "InterfocusConsole\\Services\\CursoService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAcwGQAAAANAAAA",
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\Escola.Api\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Escola.Api\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\Escola.Api\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Escola.Api\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T02:52:05.505Z",
+              "WhenOpened": "2024-06-23T07:06:19.481Z",
               "EditorCaption": ""
             },
             {
@@ -39,9 +39,9 @@
               "Title": "AlunoService.cs",
               "DocumentMoniker": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\InterfocusConsole\\Services\\AlunoService.cs",
               "RelativeDocumentMoniker": "InterfocusConsole\\Services\\AlunoService.cs",
-              "ToolTip": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\InterfocusConsole\\Services\\AlunoService.cs*",
-              "RelativeToolTip": "InterfocusConsole\\Services\\AlunoService.cs*",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAcwKEAAAAZAAAA",
+              "ToolTip": "C:\\Users\\samub\\OneDrive\\\u00C1rea de Trabalho\\code\\0.Treinamento-WEB-Interfocus\\8.Introducao-React\\InterfocusConsole\\Services\\AlunoService.cs",
+              "RelativeToolTip": "InterfocusConsole\\Services\\AlunoService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwKEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T02:46:32.88Z",
               "EditorCaption": ""

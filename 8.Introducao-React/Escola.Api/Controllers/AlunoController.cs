@@ -18,9 +18,7 @@ namespace Escola.Api.Controllers
         }   
 
         [HttpGet]
-        public IActionResult Listar(string pesquisa, 
-            int skip = 0, 
-            int pageSize = 0)
+        public IActionResult Listar(string pesquisa, int skip = 0, int pageSize = 0)
         {
             // ternário
             var alunos = string.IsNullOrEmpty(pesquisa) ? alunoService.Listar() : AlunoService.Listar(pesquisa, skip, pageSize);

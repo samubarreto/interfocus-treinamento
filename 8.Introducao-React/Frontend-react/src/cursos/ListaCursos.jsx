@@ -17,6 +17,96 @@ export default function ListaCursos() {
             </tr>
           </thead>
           <tbody>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
+            <tr>
+              <td className="special-column">001</td>
+              <td>Samuel Pereira Barreto</td>
+              <td>Descrição Legal 123</td>
+              <td>Duração legaaaal</td>
+              <td>Expert</td>
+              <td className="special-column item">e</td>
+              <td className="special-column item">d</td>
+            </tr>
           </tbody>
         </table>
       </section>
