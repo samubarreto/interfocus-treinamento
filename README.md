@@ -1,4 +1,5 @@
-[👉 Veja meu portfólio aqui](https://samubarreto.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://samubarreto.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samubrreto/)
 
 # CRONOGRAMA - TREINAMENTO
 
@@ -60,8 +61,21 @@
 - Criando componente para telas
 - Adicionando biblioteca de roteamento
 - Entendendo hooks: useState e useEffect
+- Entendendo import e export
 
 ## APRIMORANDO REACTJS: 15/06
-
+- Criando componente para cadastro/edição
+- Renderização condicional no componente
+- Buscando dados para preencher componente
+- Hook useReducer
+- Criando componente modal e abrindo ele condicionalmente
+- Mais exemplos práticos
 
 ## FINALIZAÇÃO: 22/06
+- Subindo imagens para cadastro de perfil
+- Criando POST de form-data e lendo arquivo no backend
+- Entendendo armazenamento de arquivos e persitência
+- Entendendo formas de se recuperar arquivos
+- Bag/Many-to-one NHibernate mapping
+- Criando DTOs de entrada e saída
+- Entendendo geração de build de aplicações web (backend e frontend)
